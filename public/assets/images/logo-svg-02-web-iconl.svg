@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64mm"
+   height="20mm"
+   viewBox="0 0 64 20"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="LOGO SVG-02-web iconl.svg"
+   inkscape:export-filename="/media/hanif/DATA/Documents/00 PROJECT/9 inspiyouth.id/1 Desain InspiYouth/3 Template Dokumen/header-footer-page.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs2">
+    <rect
+       x="55"
+       y="5"
+       width="57"
+       height="12.57691"
+       id="rect916" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1221115"
+     inkscape:cx="158.27153"
+     inkscape:cy="50.772946"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empcolor="#3f3fff"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text914"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1;font-family:sans-serif;white-space:pre;shape-inside:url(#rect916);fill:#ffa91f;fill-opacity:1;stroke:none;stroke-width:0.904516;"
+       transform="matrix(1.1055638,0,0,1.1055638,-44.707025,-0.36790889)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="55"
+         y="11.432685"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8.46667px;font-family:'Baloo 2';-inkscape-font-specification:'Baloo 2 Ultra-Bold';fill:#ffa91f;fill-opacity:1;stroke-width:0.904516">InspiYouth</tspan></tspan></text>
+    <g
+       id="g1036"
+       transform="matrix(0.05988127,0,0,0.05988127,-0.7523844,0.96581022)"
+       style="stroke-width:4.41846"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <linearGradient
+         id="SVGID_1_"
+         gradientUnits="userSpaceOnUse"
+         x1="74.683296"
+         y1="285.38489"
+         x2="236.6169"
+         y2="123.4513">
+        <stop
+           offset="0"
+           style="stop-color:#FFF33B"
+           id="stop981" />
+        <stop
+           offset="0.144"
+           style="stop-color:#FFE029"
+           id="stop983" />
+        <stop
+           offset="0.3154"
+           style="stop-color:#FFD218"
+           id="stop985" />
+        <stop
+           offset="0.4919"
+           style="stop-color:#FEC90F"
+           id="stop987" />
+        <stop
+           offset="0.68"
+           style="stop-color:#FDC70C"
+           id="stop989" />
+        <stop
+           offset="0.8165"
+           style="stop-color:#F3903F"
+           id="stop991" />
+        <stop
+           offset="1"
+           style="stop-color:#E93E3A"
+           id="stop993" />
+      </linearGradient>
+      <path
+         class="st1"
+         d="m 249,135.8 c -0.7,2.7 -1.5,5.3 -2.3,7.9 -1.9,5.8 -4.1,11.4 -6.5,16.9 -4.9,10.9 -10.9,21.2 -17.8,30.7 -6.3,8.6 -13.4,16.7 -21.2,24 -15.6,14.6 -33.9,26.3 -54,34.3 -2.7,1.1 -5.4,2 -8.1,3 -17.1,5.8 -35.5,8.9 -54.6,8.9 -13,0 -25.7,-1.5 -37.9,-4.2 33.5,-7.6 63.3,-25 86.1,-49.2 1.1,-1.2 2.3,-2.4 3.4,-3.7 7.1,-7.9 13.5,-16.6 19,-25.7 5.3,4.9 10.9,9.4 16.8,13.7 l 1,0.7 1.2,-0.5 c 29.7,-11.7 55.5,-31.2 74.9,-56.8 z"
+         id="path996"
+         style="fill:url(#SVGID_1_);stroke-width:4.41846" />
+      <linearGradient
+         id="SVGID_2_"
+         gradientUnits="userSpaceOnUse"
+         x1="130.371"
+         y1="147.6541"
+         x2="230.7603"
+         y2="47.264801">
+        <stop
+           offset="0"
+           style="stop-color:#FFF33B"
+           id="stop998" />
+        <stop
+           offset="5.948725e-02"
+           style="stop-color:#FFE029"
+           id="stop1000" />
+        <stop
+           offset="0.1303"
+           style="stop-color:#FFD218"
+           id="stop1002" />
+        <stop
+           offset="0.2032"
+           style="stop-color:#FEC90F"
+           id="stop1004" />
+        <stop
+           offset="0.2809"
+           style="stop-color:#FDC70C"
+           id="stop1006" />
+        <stop
+           offset="0.6685"
+           style="stop-color:#F3903F"
+           id="stop1008" />
+        <stop
+           offset="0.8876"
+           style="stop-color:#ED683C"
+           id="stop1010" />
+        <stop
+           offset="1"
+           style="stop-color:#E93E3A"
+           id="stop1012" />
+      </linearGradient>
+      <path
+         class="st2"
+         d="m 255,90.8 c 0,11.3 -1.1,22.3 -3.2,33 l -2.3,3.3 c -19,27.4 -45.2,48.3 -76,60.6 -11,-8 -21,-17.2 -29.7,-27.5 C 131.7,141.4 123.1,120 119.2,96.6 117,83.8 116.3,71 117,58.6 c 12.4,30.1 33,55.3 58.6,73.6 31.9,-12.5 59.1,-34.2 78.3,-62 0.7,6.8 1.1,13.6 1.1,20.6 z"
+         id="path1015"
+         style="fill:url(#SVGID_2_);stroke-width:4.41846" />
+      <linearGradient
+         id="SVGID_4_"
+         gradientUnits="userSpaceOnUse"
+         x1="168.3688"
+         y1="90.164001"
+         x2="209.86639"
+         y2="48.666401">
+        <stop
+           offset="0"
+           style="stop-color:#FFF33B"
+           id="stop1017" />
+        <stop
+           offset="5.948725e-02"
+           style="stop-color:#FFE029"
+           id="stop1019" />
+        <stop
+           offset="0.1303"
+           style="stop-color:#FFD218"
+           id="stop1021" />
+        <stop
+           offset="0.2032"
+           style="stop-color:#FEC90F"
+           id="stop1023" />
+        <stop
+           offset="0.2809"
+           style="stop-color:#FDC70C"
+           id="stop1025" />
+        <stop
+           offset="0.6685"
+           style="stop-color:#F3903F"
+           id="stop1027" />
+        <stop
+           offset="0.8876"
+           style="stop-color:#ED683C"
+           id="stop1029" />
+        <stop
+           offset="1"
+           style="stop-color:#E93E3A"
+           id="stop1031" />
+      </linearGradient>
+      <circle
+         style="fill:url(#SVGID_4_);stroke-width:4.41846"
+         cx="189.10001"
+         cy="69.400002"
+         id="circle1034"
+         r="29.299999" />
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style979">
+	.st0{fill:#2D2D72;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{clip-path:url(#SVGID_4_);fill:url(#SVGID_5_);}
+	.st4{clip-path:url(#SVGID_7_);fill:url(#SVGID_8_);}
+	.st5{clip-path:url(#SVGID_10_);fill:url(#SVGID_11_);}
+	.st6{clip-path:url(#SVGID_13_);fill:url(#SVGID_14_);}
+	.st7{fill:url(#SVGID_15_);}
+	.st8{fill:url(#SVGID_16_);}
+	.st9{fill:url(#SVGID_17_);}
+	.st10{fill:#1A1648;}
+	.st11{fill:url(#SVGID_18_);}
+	.st12{fill:url(#SVGID_19_);}
+	.st13{fill:url(#SVGID_20_);}
+	.st14{fill:url(#SVGID_21_);}
+	.st15{fill:url(#SVGID_22_);}
+	.st16{fill:url(#SVGID_23_);}
+	.st17{fill:#FFFFFF;}
+	.st18{fill:#FBA823;}
+	.st19{fill:#D82638;}
+	.st20{fill:#207975;}
+	.st21{fill:#B4ABC5;}
+	.st22{fill:url(#SVGID_24_);}
+	.st23{fill:url(#SVGID_25_);}
+</style>
+</svg>
